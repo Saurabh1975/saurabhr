@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+
+body { font: 12px Arial;
+}
+
+
+text {
+    font-family: "Lato", Times, serif;
+    fill: #464545;
+    stroke: #464545;
+}
+
+text.navLink:hover{
+cursor:pointer;
+}

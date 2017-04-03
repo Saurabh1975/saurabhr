@@ -205,7 +205,7 @@ var nameStartTime = startOffset+roleTransitionTime*(roles.length+1);
         .style("stroke-width", "0.75px")
         .style("opacity", 0)
         .attr("dx", 8)
-        .on("click", function() { window.open("http://saurabhr.com/portfolio/"); })
+        .on("click", function() { window.open("http://saurabhr.com/blog/"); })
         .attr("dy", "1em")
         .attr('font-size','24px')
         .attr("transform", 
@@ -225,7 +225,7 @@ var nameStartTime = startOffset+roleTransitionTime*(roles.length+1);
         .style("stroke-width", "0.75px")
         .style("opacity", 0)
         .attr("dx", 8)
-        .on("click", function() { window.open("http://saurabhr.com/portfolio/"); })
+        .on("click", function() { window.open("http://saurabhr.com/about/"); })
         .attr("dy", "1em")
         .attr('font-size','24px')
         .attr("transform", 
